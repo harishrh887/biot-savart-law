@@ -68,19 +68,20 @@ This integral sums the magnetic field contributions from all current elements al
 ***Applications of Biot–Savart’s Law***
 	
  1.  **Magnetic field at the center of a circular loop:**
-     <img width="198" height="97" alt="image" src="https://github.com/user-attachments/assets/0d26fc32-1fbd-4c44-bfcf-f5887c8d0559" />
+
+      <img width="198" height="97" alt="image" src="https://github.com/user-attachments/assets/0d26fc32-1fbd-4c44-bfcf-f5887c8d0559" />
 
 
   
-  2. **Magnetic field due to a straight current-carrying wire.**
+  3. **Magnetic field due to a straight current-carrying wire.**
 	
-  3. **Used in Ampere’s Circuital Law derivation** — helps relate magnetic field and current.
+  4. **Used in Ampere’s Circuital Law derivation** — helps relate magnetic field and current.
 	
-  4. **Used to find the field of solenoids and toroids**.
+  5. **Used to find the field of solenoids and toroids**.
 	
-  5. **Design of electromagnets and inductors** in electrical engineering.
+  6. **Design of electromagnets and inductors** in electrical engineering.
 	
-  6. **MRI scanners and magnetic sensors** also rely on magnetic field calculations derived from this law.
+  7. **MRI scanners and magnetic sensors** also rely on magnetic field calculations derived from this law.
 
 
 
