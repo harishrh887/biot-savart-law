@@ -24,6 +24,17 @@ Let:
 	
   - d**B** = small magnetic field produced by d**l**
 
+
+***Direction of Magnetic Field***
+
+•	The direction of ( d\mathbf{B} ) is perpendicular to both ( d\mathbf{l} ) and ( \mathbf{r} ).
+
+•	Determined using the Right-Hand Rule:
+Point your thumb along the current ( I ) (or ( d\mathbf{l} )),
+and your fingers towards the point where the field is observed;
+the palm shows the direction of ( d\mathbf{B} ).
+
+
 ***Mathematical Form***
 
 <img width="227" height="73" alt="image" src="https://github.com/user-attachments/assets/e7b92b43-3ce3-46de-a504-8bd1180b4a03" />
@@ -85,10 +96,34 @@ This integral sums the magnetic field contributions from all current elements al
   7. **MRI scanners and magnetic sensors** also rely on magnetic field calculations derived from this law.
 
 
+***Key Features***
+-	Magnetic field ( B ) is directly proportional to:
+  
+-	the current ( I )
+  
+-	the length element ( dl )
+  
+-	the sine of the angle between ( d\mathbf{l} ) and ( \mathbf{r} )
+  
+-	( B ) is inversely proportional to the square of the distance ( r^2 ).
+
+-	The law applies to any shape of current-carrying conductor (straight wire, circular loop, solenoid, etc.).
+
+-	It forms the basis for Ampere’s Law and helps derive the magnetic field at the center of a circular coil.
+
+
+
 
 ***Graphical Representation***
 
-The direction of d**B** is **perpendicular** to both the direction of current (dl) and the line    joining the element to the observation point (r) — following the **right-hand rule.**
+- The direction of d**B** is **perpendicular** to both the direction of current (dl) and the line    joining the element to the observation point (r) — following the **right-hand rule.**
+
+- The vector ( d\mathbf{B} ) forms a circle around the conductor.
+
+- At any point around the wire, the field lines are tangential to the circular path and perpendicular to the wire.
+  
+- Thus, the magnetic field due to a current-carrying conductor forms concentric circles around the wire.
+
 
 ***Conclusion***
 
