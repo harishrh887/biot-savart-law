@@ -45,6 +45,7 @@ where,
 ***Magnetic Field Due to a Long Straight Current-Carrying Wire***
 
  By integrating the Biot–Savart Law along the entire length of a wire:
+
   <img width="323" height="67" alt="image" src="https://github.com/user-attachments/assets/283fce7c-47d5-404a-a915-4f01e77e1da0" />
 
          
