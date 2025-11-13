@@ -105,6 +105,14 @@ This integral sums the magnetic field contributions from all current elements al
 	
   7. **MRI scanners and magnetic sensors** also rely on magnetic field calculations derived from this law.
 
+  8. Calculation of magnetic field due to current-carrying wires, coils, and solenoids
+
+  9. Design of electromagnets and inductors
+
+  10.Foundation for Ampere’s Law and Magnetostatics
+
+  11. Used in MRI machines, electric motors, and transformers
+
 
 
 
@@ -122,6 +130,61 @@ This integral sums the magnetic field contributions from all current elements al
 -	The law applies to any shape of current-carrying conductor (straight wire, circular loop, solenoid, etc.).
 
 -	It forms the basis for Ampere’s Law and helps derive the magnetic field at the center of a circular coil.
+
+
+***Limitations of Biot–Savart Law***
+
+While the Biot–Savart Law is a powerful tool for understanding magnetostatics, it has several ***limitations*** and ***assumptions*** that restrict its applicability:
+
+
+***1.Applicable Only for Steady Currents***
+
+- The law assumes that the current Iis constant with time.
+
+- It does not apply to situations where current changes with time (i.e., time-varying currents), since that would produce changing magnetic and electric fields.
+
+  
+***Not Suitable for Time-Varying Electric Fields***
+
+- When the electric field changes with time, an induced magnetic field appears according to   Faraday’s Law of Induction.
+ 
+- The Biot–Savart Law does not consider this effect.
+  
+- In such cases, the more general Maxwell’s Equations must be used.
+ 
+***Neglects Relativistic Effects***
+
+- The law assumes that the current-carrying charges move much slower than the speed of light.
+
+- At relativistic speeds, the relationship between electric and magnetic fields becomes more complex, and the Biot–Savart law becomes inaccurate.
+ 
+***Valid Only for Magnetostatic Conditions***
+
+- It assumes the magnetic field is static (does not vary with time).
+  
+- It cannot describe electromagnetic waves or radiation phenomena where fields propagate through space.
+  
+***Difficult for Complex Geometries***
+
+- The Biot–Savart Law requires integration over the entire current distribution, which can be mathematically complex for irregular conductor shapes.
+ 
+- Numerical or computational methods are often needed for such systems.
+  
+***Assumes Continuous Current Distribution***
+
+- The law treats current as a continuous flow of charge, ignoring the discrete nature of electrons
+  .
+- At microscopic or quantum scales, this assumption breaks down.
+ 
+***Does Not Include Magnetic Materials***
+
+- The law is derived for free space or vacuum (μ=μ_0).
+
+- In presence of magnetic materials (like iron or ferrite), magnetic permeability varies, and the law becomes less accurate without modifications
+
+
+
+  
 
 
 
